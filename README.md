@@ -44,6 +44,14 @@ No dedicated Wiki available.
 
 [Shiren the Wanderer: Tower of Fortune Wiki](https://sharksnack.github.io/shiren-5/)
 
+### Shiren the Wanderer 6 (Switch)
+
+![Shiren 6 Box Art](https://upload.wikimedia.org/wikipedia/en/b/b6/Shiren_the_Wanderer_The_Mystery_Dungeon_of_Serpentcoil_Island.jpg)
+
+[Official Product Page](https://www.spike-chunsoft.co.jp/shiren6/en/)
+
+[Shiren the Wanderer: Serpentcoil Island Wiki](https://sharksnack.github.io/shiren-6/)
+
 ### Shiren Gaiden: Asuka Kenzan! (Dreamcast/PC)
 
 ![Asuka Kenzan Box Art](https://m.media-amazon.com/images/I/51H33AWT98L._SL160_.jpg)
