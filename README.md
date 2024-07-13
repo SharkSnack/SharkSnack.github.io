@@ -26,6 +26,8 @@ Links to Shiren the Wanderer patches, wikis, etc.
 
 [English Patch (PSP - Incomplete)](https://www.romhacking.net/translations/2015/)
 
+No dedicated Wiki available.
+
 ### Shiren the Wanderer 4 (DS/PSP)
 
 ![Shiren 4 Box Art](https://m.media-amazon.com/images/I/51X9kucQ1IL._SL160_.jpg)
@@ -56,13 +58,17 @@ Links to Shiren the Wanderer patches, wikis, etc.
 
 ![Shiren GB1 Box Art](https://m.media-amazon.com/images/I/510xk39P3AS._SL160_.jpg)
 
-No English Patch Available.
+No English patch available.
+
+No dedicated Wiki available.
 
 ### Shiren GB2 (GBC/DS)
 
 ![Shiren GB2 Box Art](https://m.media-amazon.com/images/I/61ERA8A84EL._SL160_.jpg)
 
 English Patch (DS - Incomplete) - Check the "shiren-ds2-english" channel in the Discord server.
+
+[Shiren DS2: Magic Castle Wiki](https://sharksnack.github.io/shiren-ds2/)
 
 ### Pokemon Mystery Dungeon: Rescue Team DX (Switch)
 
