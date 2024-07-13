@@ -1,4 +1,5 @@
 # sharksnack.github.io
+
 Links to Shiren the Wanderer patches, wikis, etc.
 
 ## Games
@@ -8,6 +9,8 @@ Links to Shiren the Wanderer patches, wikis, etc.
 ![Shiren 1 Box Art](https://m.media-amazon.com/images/I/51HR71D448L._SL160_.jpg)
 
 [English Patch (SNES - Fully Playable)](https://www.romhacking.net/translations/483/)
+
+[Shiren DS1 Wiki](https://sharksnack.github.io/shiren-ds1/)
 
 ### Shiren the Wanderer 2 (Nintendo 64)
 
@@ -27,7 +30,7 @@ Links to Shiren the Wanderer patches, wikis, etc.
 
 ![Shiren 4 Box Art](https://m.media-amazon.com/images/I/51X9kucQ1IL._SL160_.jpg)
 
-[English Patch (PSP - Coming Soon™)](https://www.romhacking.net/forum/index.php?topic=31307.0)
+[English Patch (PSP - Fully Playable)](https://www.romhacking.net/translations/7175/)
 
 [Shiren the Wanderer 4: The Eye of God Wiki](https://sharksnack.github.io/shiren-4/)
 
@@ -43,7 +46,7 @@ Links to Shiren the Wanderer patches, wikis, etc.
 
 ![Asuka Kenzan Box Art](https://m.media-amazon.com/images/I/51H33AWT98L._SL160_.jpg)
 
-English Patch Coming Later™
+[English Patch (Dreamcast - Demo)](https://sharksnack.github.io/asuka/patches/dreamcast-english-demo-patch)
 
 [In-game Item Name Translation (PC)](https://sharksnack.github.io/asuka/guides/pc-setup-guide)
 
@@ -53,15 +56,17 @@ English Patch Coming Later™
 
 ![Shiren GB1 Box Art](https://m.media-amazon.com/images/I/510xk39P3AS._SL160_.jpg)
 
-[English Patch (GB - Unreleased)](http://www.grimmtranslations.com/shiren-the-wanderer-gb1/)
+No English Patch Available.
 
 ### Shiren GB2 (GBC/DS)
 
 ![Shiren GB2 Box Art](https://m.media-amazon.com/images/I/61ERA8A84EL._SL160_.jpg)
 
-[English Patch (GBC - Unreleased)](http://www.grimmtranslations.com/shiren-the-wanderer-gb2/)
+English Patch (DS - Incomplete) - Check the "shiren-ds2-english" channel in the Discord server.
 
-[English Patch (DS - Incomplete)](http://www.mediafire.com/?nejnjmozaad)
+### Pokemon Mystery Dungeon: Rescue Team DX (Switch)
+
+[PMD1 DX Wiki](https://sharksnack.github.io/pmd1-dx/)
 
 ## Community
 
